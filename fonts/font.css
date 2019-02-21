@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Arial';
+	src: url('./arial/Arial.eot');
+	src: local('Arial'), url('./arial/Arial.woff') format('woff'), url('./arial/Arial.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Circe';
+	src: url('./circe/CRC55.otf');
+}
